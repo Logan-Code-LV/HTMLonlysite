@@ -38,3 +38,17 @@ li {
 .opening {
   font-size: 10px;
 }
+
+.background {
+  background-color: rgb(235, 229, 221);
+}
+
+.assignment {
+  margin-right: 65%;
+  padding-left: 5%;
+  padding-top: 2%;
+}
+
+.below {
+  text-decoration: underline;
+}
